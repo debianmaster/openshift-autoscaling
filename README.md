@@ -1,4 +1,4 @@
-### In this repo i will be demonstrating autoscaling in openshift v3
+> In this repo i will be demonstrating autoscaling in openshift v3
 
 ### Create an app to test , say nginx
 ```sh
